@@ -1,8 +1,8 @@
 {
   "app": {
     "status": true,
-    "toolbar": true,
-    "navigation_drawer": true,
+    "toolbar": false,
+    "navigation_drawer": false,
     "geolocation": true,
     "cache": true,
     "open_link_in_external_browser": false,
@@ -46,7 +46,7 @@
       "name": "Home",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/home.png",
-      "url": "https://solodroidev.github.io/webdroid/pages/light/home.html",
+      "url": "https://topupguru.top",
       "url_dark": "https://solodroidev.github.io/webdroid/pages/dark/home.html"
     },
     {
