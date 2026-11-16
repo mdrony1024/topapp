@@ -115,10 +115,10 @@
       "banner_home": true,
       "interstitial_drawer_menu": true,
       "interstitial_web_page_link": true,
-      "native_drawer_menu": true,
+      "native_drawer_menu": false,
       "native_exit_dialog": true,
-      "app_open_ad_on_start": true,
-      "app_open_ad_on_resume": true
+      "app_open_ad_on_start": false,
+      "app_open_ad_on_resume": false
     }
   }
 }
