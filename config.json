@@ -16,26 +16,26 @@
     "status": true,
     "sliders": [
       {
-        "title": "Welcome to TopUpGuru01",
-        "message": "Native Android App based on WebView with excellent design, beautiful, elegant & clean",
+        "title": "Welcome to TopUpGuru",
+        "message": "Bangladesh’s most trusted & fastest Free Fire diamond top-up platform at your fingertips.",
         "image": "https://raw.githubusercontent.com/mdrony1024/topapp/refs/heads/main/Slider1.jpg",
         "background_color": "ffffff"
       },
       {
-        "title": "Navigation menu",
-        "message": "WebDroid integrated with remote json so you can manage the navigation drawer item and url dynamically",
+        "title": "Super Fast Auto Delivery",
+        "message": "Get your Free Fire diamonds, Weekly & Monthly memberships delivered to your Player ID within seconds!",
         "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webdroid/sliders/slider2.png",
         "background_color": "ffffff"
       },
       {
-        "title": "Push notification",
-        "message": "Integrated with FCM & OneSignal push notification to notify your users",
+        "title": "Easy & Secure Payment",
+        "message": "Add money effortlessly using bKash, Nagad, or Rocket with 100% safe and automated verification.",
         "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webdroid/sliders/slider3.png",
         "background_color": "ffffff"
       },
       {
-        "title": "Multiple Ad Neworks",
-        "message": "Supports up to 9 ad networks from the most popular providers to make it easier to monetize your app",
+        "title": "24/7 Support & Best Deals",
+        "message": "Enjoy exclusive discounts, instant notifications on offers, and dedicated customer support anytime.",
         "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webdroid/sliders/slider4.png",
         "background_color": "ffffff"
       }
